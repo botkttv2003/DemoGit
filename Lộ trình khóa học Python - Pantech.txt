@@ -1,0 +1,33 @@
+Khóa học Python - Pantech
+"Buổi 1: Introduction, dạy về các câu lệnh input, print,Làm quen với SQL và cài đặt
+Buổi 2: Dạy về toán tử, Phép so sánh
+Buổi 3: Dạy if else, elif
+Buổi 4: Dạy vòng lặp for, while, mảng
+Buổi 5: Dạy thuật toán tìm kiếm, Ôn các bài buổi 3,4
+Buổi 6: Dạy về Thuật toán sắp xếp
+Buổi 7: Viết hàm
+Buổi 8: Đọc file
+Buổi 9: Học kết nối Python với CSDL
+Buổi 10: CRUD CSDL
+Buổi 11: Xử lý lỗi, câu điều kiện và cấu trúc vòng lặp trong SQL,Xóa, cập nhật và thêm dữ liệu trong SQL
+Buổi 12: Chỉnh sửa và sắp xếp dữ liệu, Hàm và bảng dẫn xuất, CTEs
+Buổi 13: Cursors, Debug và Dynamic SQL, Pivots và Triggers trong SQL 
+Buổi 14: Review kiến thức khóa SQL level 2, bài tập nhóm và đánh giá cá nhân
+Buổi 15: Làm quen với Power BI, Xử lý dữ liệu cơ bản và ngôn ngữ M, Sử dụng bộ lọc và slicers
+Buổi 17: Xử lý dữ liệu bằng Drill-down và Drillthrough
+Buổi 18: Sử dụng map và tạo calculated columns
+Buổi 19: Trích xuất và chia sẻ báo cáo,Tổng kết khóa học Power BI
+Buổi 20: Làm quen với Python
+Buổi 21: Xử lý và phân tích dữ liệu với Numpy và Pandas
+Buổi 22: Tải dữ liệu, lưu trữ và làm sạch, chuẩn bị dữ liệu
+Buổi 23: Xử lý và Biểu diễn dữ liệu, Phân tích dữ liệu nâng cao với Pandas
+Buổi 24: Giới thiệu các thư viện mô hình hóa trong Python và các ví dụ phân tích dữ liệu
+Buổi 25: Review kiến thức khóa Python level 1, bài tập nhóm và đánh giá cá nhân
+Buổi 26: OOP Python Overview và Data Analysis Review
+Buổi 27: Machine Learning cơ bản
+Buổi 28: Các mô hình học máy có giám sát
+Buổi 29: Các mô hình học máy không có giám sát
+Buổi 30: Deep Learning Overview
+Buổi 31: Xử lý ngôn ngữ tự nhiên
+Buổi 32: Thị giác máy tính, Tổng kết chương trình Python Level 2
+"

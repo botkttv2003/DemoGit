@@ -1,0 +1,25 @@
+### ĐẾM SỐ LẦN XUẤT HIỆN CỦA KÝ TỰ TRONG VĂN BẢN
+
+Em hãy viết một chương trình để đếm xem trong một văn bản có những ký tự nào và mỗi ký tự xuất hiện bao nhiêu lần. Em có thể dùng từ điển (dictionary) và tập hợp (set) để lưu trữ và xử lý dữ liệu.
+
+**Giải thích:**
+
+- Một ký tự là một phần tử đơn lẻ trong chuỗi. Ví dụ: "H", "e", "l", "l", "o" là các ký tự trong chuỗi "Hello".
+
+- Để đếm số lần xuất hiện của mỗi ký tự trong văn bản, em có thể dùng một từ điển để lưu trữ cặp giá trị (ký tự, số lần). Ví dụ: Nếu văn bản là `"Hello world!"`, thì từ điển sẽ là `{"H": 1, "e": 1, "l": 3, "o": 2, " ": 1, "w": 1, "r": 1, "d": 1, "!": 1}`.
+
+## Input
+
+- Tên của file cần kiểm tra, ví dụ: "text.txt"
+
+## Output
+
+- Các dòng in ra màn hình, mỗi dòng gồm một ký tự và số lần xuất hiện của nó, cách nhau bởi dấu hai chấm (cười, ví dụ: "H: 1"
+
+## Example
+
+|                          Input                           |                                       Output                                        |
+
+| :------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+
+| text.txt <br> (Nội dung file text.txt là "Hello world!") | H: 1 <br> e: 1 <br> l: 3 <br> o: 2 <br> : 1 <br> w: 1 <br> r: 1 <br> d: 1 <br> !: 1 |

@@ -1,0 +1,53 @@
+### CHƯƠNG TRÌNH DANH BẠ ĐIỆN THOẠI
+
+Chương trình danh bạ điện thoại để quản lý thông tin về tên và số điện thoại tương ứng.
+
+Chương trình gồm các tính năng:
+
+1. Hiển thị danh bạ điện thoại
+
+2. Đếm số lượng danh bạ điện thoại
+
+3. Kiểm tra xem số điện thoại có tồn tại trong danh sách hay không
+
+**Giải thích:**
+
+- Danh bạ điện thoại là một danh sách chứa các thông tin về tên và số điện thoại của một số người.
+
+## Input
+
+- Lựa chọn của người dùng là một số từ 1 đến 4.
+
+- Tên của người dùng là một chuỗi ký tự.
+
+- Số điện thoại của người dùng là một chuỗi số.
+
+## Output
+
+- Màn hình hiển thị menu và các thông tin theo lựa chọn của người dùng.
+
+## Example
+
+Lựa chọn của người dùng:
+
+```
+
+1
+
+```
+
+Tên của người dùng:
+
+```
+
+Anh
+
+```
+
+Màn hình hiển thị:
+
+```
+
+Anh có số điện thoại là: 0987654321
+
+```
